@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.container-fluid{
+    padding: 0 !important;
+    background-color: rgba(99, 99, 99, 0.1);
+}
+
+.productCard{
+    background-color: rgb(255, 255, 255)!important;
+}
+
+.card{
+    padding:0 5px 0 5px;;
+}
+
+
+
+.carddiv{
+    margin-top: 5%;
+}
+
+.titletxt{
+    font-size: 5em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+

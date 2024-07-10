@@ -1,0 +1,69 @@
+.cartTitle{
+    background-color: #3498DB;
+}
+
+.cartTitle h1{
+    font-size: 4em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+
+.paySection{
+    background-color:  #3498DB;
+    color: white;
+    padding:5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.purchasebtn{
+    color: white;
+    border: 2px solid white;
+    padding:5px 2px;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
+}
+
+.purchasebtn:hover{
+    background-color: white;
+}
+
+#showPayment{
+    background-color: #3498DB;
+}
+
+.orderSection{
+    padding: 50px;
+    color: white;
+}
+
+#payForm{
+   border: 3px solid white;
+   padding-top: 20px;
+   padding-bottom: 50px;
+}
+
+#pay{
+    width: 50%;
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color: green;
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+#pay:hover{
+    background-color: rgb(0, 87, 0);
+    border: 2px solid rgba(255, 255, 255, 0.747)
+
+}
+
+#shippiamount{
+    background-color: #005c99;
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+}
